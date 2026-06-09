@@ -1,4 +1,21 @@
-<table><tr> <td colspan="1"> <h3 align="center"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://editor.land/Image/GitHub/NPM.svg"> <source media="(prefers-color-scheme: light)" srcset="https://editor.land/Image/GitHub/NPM.svg"> <img width="28" alt="" src="https://editor.land/Image/GitHub/NPM.svg"> </picture>  </h3> </td> <td colspan="3" valign="top"> <h3 align="center"> NPM </h3> </td> </tr></table>
+<table>
+	<tr>
+		<td colspan="1">
+			<h3 align="center">
+				<picture>
+					<source media="(prefers-color-scheme: dark)" srcset="https://editor.land/Image/GitHub/NPM.svg" />
+					<source media="(prefers-color-scheme: light)" srcset="https://editor.land/Image/GitHub/NPM.svg" />
+					<img width="28" alt="" src="https://editor.land/Image/GitHub/NPM.svg" />
+				</picture>
+			</h3>
+		</td>
+		<td colspan="3" valign="top">
+			<h3 align="center">
+				NPM
+			</h3>
+		</td>
+	</tr>
+</table>
 
 ## Funding
 
