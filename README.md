@@ -11,7 +11,7 @@
 		</td>
 		<td colspan="3" valign="top">
 			<h3 align="center">
-				NPM
+				NPM&#x2001;📦
 			</h3>
 		</td>
 	</tr>
